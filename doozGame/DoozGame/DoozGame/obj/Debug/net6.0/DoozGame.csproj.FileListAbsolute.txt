@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\bin\Debug\net6.0\DoozGame.exe
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\bin\Debug\net6.0\DoozGame.deps.json
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\bin\Debug\net6.0\DoozGame.runtimeconfig.json
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\bin\Debug\net6.0\DoozGame.dll
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\bin\Debug\net6.0\ref\DoozGame.dll
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\bin\Debug\net6.0\DoozGame.pdb
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\obj\Debug\net6.0\DoozGame.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\obj\Debug\net6.0\DoozGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\obj\Debug\net6.0\DoozGame.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\obj\Debug\net6.0\DoozGame.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\obj\Debug\net6.0\DoozGame.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\obj\Debug\net6.0\DoozGame.dll
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\obj\Debug\net6.0\ref\DoozGame.dll
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\obj\Debug\net6.0\DoozGame.pdb
+C:\Users\Administrator\Desktop\Dooz\doozGame\DoozGame\DoozGame\obj\Debug\net6.0\DoozGame.genruntimeconfig.cache
