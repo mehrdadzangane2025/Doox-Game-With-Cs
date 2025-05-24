@@ -4,6 +4,7 @@
 using namespace std;
 
 int main() {
+Restart:
     char board[3][3] = {
         { '0', '0', '0' },
         { '0', '0', '0' },
@@ -82,7 +83,19 @@ int main() {
                 isOver = true;
             }
         }
-
+        int sum = 0;
+        for(int i = 0; i < 3; i++)
+            {
+                for(int j = 0; j < 3; j++)
+                    {
+                        if(board[i][j] != '0'){
+                            sum++;
+                    }
+            }
+        if(sum == 9)
+        {
+            goto Restart;
+        }
         if (isOver) {
             cout << endl;
             if (winner) {
