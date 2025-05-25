@@ -1,1 +1,3 @@
-input number between 1-9: X and O :)
+c# add Restart for draw...
+
+input number between 1-9: X Versus O!
